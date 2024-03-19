@@ -1,0 +1,33 @@
+nav {
+    color: FF204E; padding: 20px;
+}
+.columna {
+    background: #207ecc; 
+    color: #240A34;
+    padding: 20px;
+    width: 50%
+    margin 10px;
+    }
+.padre{
+    display: flex;
+}
+.cuadro{
+    background-color: blue; text-decoration: none;
+}
+.centrar{
+    text-align: right; background-color: #202020;color: black;
+}
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff; 
+    text-decoration: none; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; 
+  }
+ 
+  .boton:hover {
+    background-color: #0056b3;
+ }
